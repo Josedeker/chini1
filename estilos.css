@@ -1,0 +1,241 @@
+*{
+padding: 0;	
+margin: 0;
+}
+
+body{
+  font: 15px Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:auto;
+  background-color:#f4f4f4;
+}
+
+header{
+background-image: url(salsa2.jpg);
+color:#ffffff;
+padding-top:40px;
+min-height:70px;
+position: relative;	
+}
+main{
+background-color: white;	
+padding-top:388px;
+min-height: 70px;
+border: solid 2px black;
+}
+footer{
+padding-top:55px;
+min-height: 70px;
+background-color: black;
+}
+
+#menu{
+background-color: black;
+width: 612.5px;
+position: absolute;
+top: 70px;
+left: 28%;
+}
+		
+#menu ul{
+list-style: none;
+margin: 0;
+padding: 0;
+}
+#menu ul li{
+display: inline-block;
+}
+#menu ul li a{
+height: auto;	
+width: auto: ;	
+color: white;
+font-size: 22px;
+display: block;
+padding: 20px 20px;
+text-decoration: none;
+}
+#menu ul li a:hover{
+background-color: #42B881;
+}
+
+#logo1{
+
+position: absolute;
+top: 400px;	
+left: 550px;
+
+	}
+#logo{
+
+position: absolute;
+top: 450px;	
+left: 650px;
+
+	}
+
+#titulo{
+color: white;
+font-size: 20px;
+text-align: center;
+position: absolute;
+top: 570px;
+left: 590px;	
+}
+
+#titulo1{
+color: white;
+font-size: 20px;
+text-align: center;
+position: absolute;
+top: 640px;
+left: 590px;	
+}
+#facebok{
+position: absolute;
+top: 595px;
+left: 50px;	
+}
+
+#facebok1{
+position: absolute;
+top: 670px;
+left: 50px;	
+}
+#faceboktxt{
+position: absolute;
+top: 610px;
+left: 110px;	
+color: white;
+font-size: 18px;
+}
+
+#faceboktxt1{
+position: absolute;
+top: 680px;
+left: 110px;	
+color: white;
+font-size: 18px;
+}
+#gmail{
+position: absolute;
+top: 595px;
+left: 450px;	
+}
+#gmailtxt{
+position: absolute;
+top: 610px;
+left: 510px;	
+color: white;
+font-size: 18px;
+}
+
+#gmail1{
+position: absolute;
+top: 670px;
+left: 450px;	
+}
+#gmailtxt1{
+position: absolute;
+top: 680px;
+left: 510px;	
+color: white;
+font-size: 18px;
+}
+#tel1{
+position: absolute;
+top: 680px;
+left: 950px;	
+}
+#teltxt1{
+position: absolute;
+top: 680px;
+left: 1010px;	
+color: white;
+font-size: 18px;
+}
+#tel{
+position: absolute;
+top: 595px;
+left: 950px;	
+}
+#teltxt{
+position: absolute;
+top: 610px;
+left: 1010px;	
+color: white;
+font-size: 18px;
+}
+
+#pie{
+color: white;
+font-size: 20px;	
+position: absolute;	
+top: 670px;	
+left: 480px;
+}
+
+#pie1{
+color: white;
+font-size: 20px;	
+position: absolute;	
+top: 740px;	
+left: 480px;
+}
+
+#Quesomos{
+position: absolute;
+top: 190px;
+left: 330px;
+
+font-size: 20px;
+font-family: tipo1;
+}
+
+#producto{
+font-family: tipo1;	
+position: absolute;
+font-size: 20px;
+top: 170px;
+left: 290px;	
+}
+
+#sabias{
+font-family: tipo1;	
+position: absolute;
+top: 190px;
+left: 290px;	
+font-size: 20px;	
+}
+
+@font-face{
+font-family:tipo1;
+src:url(Fragmentcore.otf);	
+}
+
+@font-face{
+font-family:tipo2;
+src:url(DK Lemon Yellow Sun.otf);	
+}
+
+#imagen1{
+position: absolute;
+top: 420px;	
+left: 500px;
+}
+
+#logo12{
+position: absolute;
+top: 400px;	
+left: 500px;
+
+}
+
+#uno{
+font-family: tipo2;	
+font-size: 50px;
+}
+
+#dos{
+font-family: tipo2;
+font-size: 50px;	
+}
